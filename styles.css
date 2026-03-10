@@ -42,7 +42,7 @@ ul {
 
 /* Barra principal del header */
 .header-main {
-    background-color: #131921;
+    background-color: #ffffff;
     padding: 10px 0;
 }
 
@@ -58,7 +58,7 @@ ul {
 
 /* Logo */
 .logo a {
-    color: #ffffff;
+    color: #5EC962;
     font-size: 24px;
     font-weight: bold;
     white-space: nowrap;
